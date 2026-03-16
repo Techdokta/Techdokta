@@ -1,16 +1,58 @@
-## Hi there 👋
+# Asibonge Sanele Mlotshwa
 
-<!--
-**Techdokta/Techdokta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BEngTech Mechatronic Engineering** | Tshwane University of Technology
 
-Here are some ideas to get you started:
+Building AI-powered cybersecurity tools for African critical infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Build
+
+**OT/ICS Cybersecurity** — Protecting operational technology systems (SCADA, PLCs, industrial control systems) in energy, water, and manufacturing environments across Southern Africa.
+
+**AI-Powered Threat Detection** — Using TensorFlow.js, COCO-SSD, and machine learning for real-time anomaly detection, object detection, and behavior analytics in security-critical environments.
+
+**Threat Intelligence Platforms** — Designing national-scale intelligence sharing architectures for coordinated cyber defense across public and private sectors.
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack | Live Demo |
+|---------|-------------|-------|-----------|
+| **SA-CTEX** | South African Cyber Threat Exchange — National malware readiness platform with IOC sharing, sector ISACs, malware analysis, and capacity tracking | HTML, CSS, JS, Chart.js | [Demo →](https://techdokta.github.io/sa-ctex-dashboard/) |
+| **SHIELD OT** | Threat intelligence dashboard for Southern African energy infrastructure with SADC ISAC feed and resilience scoring | HTML, CSS, JS, Chart.js | [Demo →](https://techdokta.github.io/shield-ot-dashboard/) |
+| **SENTINEL v3** | AI control room security platform with real-time device detection, operator authentication, behavior analytics, and forensic audit trail | HTML, CSS, JS, TensorFlow.js, COCO-SSD | [Demo →](https://techdokta.github.io/sentinel-monitor/) |
+
+---
+
+### Tech Stack
+
+```
+Security:    MITRE ATT&CK | NIST CSF | IEC 62443 | STIX/TAXII | TLP | YARA | Sigma
+AI/ML:       TensorFlow.js | COCO-SSD | Face-API.js | Anomaly Detection
+Frontend:    HTML/CSS/JS | React | Chart.js | SVG | Canvas API
+OT/ICS:      Siemens TIA Portal (SMSCP Certified) | S7-1200 PLC | Modbus | DNP3
+Engineering: MATLAB/Simulink | Python | MQL5
+```
+
+---
+
+### Currently
+
+- Completing Honours in Mechatronics Engineering
+- Participant in **SANCS26** — Southern Africa-Netherlands Cyber Security School
+- Pursuing **AZ-500** Azure Security Engineer Associate
+- Building open-source security tools for African infrastructure
+- Vice Chairperson, SAIMechE TUT Chapter
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asibonge.mlotshwa.engineer@gmail.com)
+
+---
+
+*"The people who will solve Africa's cybersecurity challenge are those who understand both the technology and the context of this African continent."*
