@@ -1,6 +1,6 @@
 # Asibonge Sanele Mlotshwa
 
-**BEngTech Mechatronic Engineering** | Tshwane University of Technology
+**BEngTech Mechatronic Engineering** | Tshwane University
 
 Building AI-powered cybersecurity tools for African critical infrastructure.
 
