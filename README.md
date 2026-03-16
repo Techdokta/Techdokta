@@ -1,6 +1,6 @@
 # Asibonge Sanele Mlotshwa
 
-**BEngTech Mechatronic Engineering** | Tshwane University
+**BEngTech Mechatronic Engineering** | Tshwane University of Technology
 
 Building AI-powered cybersecurity tools for African critical infrastructure.
 
@@ -50,8 +50,10 @@ Engineering: MATLAB/Simulink | Python | MQL5
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asibonge-mlotshwa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asibonge.mlotshwa.engineer@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/27637538553)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A7B61?style=flat-square&logo=googlechrome&logoColor=white)](https://asibongemlotshwa.com)
 
 ---
 
