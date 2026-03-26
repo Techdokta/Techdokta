@@ -33,6 +33,7 @@ Building AI-powered cybersecurity tools for African critical infrastructure.
 Security:    MITRE ATT&CK | NIST CSF | IEC 62443 | STIX/TAXII | TLP | YARA | Sigma | Checkvibe.dev 
 AI/ML:       TensorFlow.js | COCO-SSD | Face-API.js | Anomaly Detection
 Frontend:    HTML/CSS/JS | React | Chart.js | SVG | Canvas API | Tailwind | Google-Stitch 
+Backend:     JSON | 
 OT/ICS:      Siemens TIA Portal (SMSCP Certified) | S7-1200 PLC | Modbus | DNP3 
 Engineering: MATLAB/Simulink | Python | MQL5 | Ladder Logic
 ```
@@ -46,6 +47,9 @@ Engineering: MATLAB/Simulink | Python | MQL5 | Ladder Logic
 - Pursuing **AZ-500** Azure Security Engineer Associate
 - Building open-source security tools for African infrastructure
 - Vice Chairperson, SAIMechE TUT Chapter
+- CSIR National Cyber Threat Challenge
+- MobiDokta lead Technical specialist
+- ASI Technologies IT Technician
 
 ---
 
