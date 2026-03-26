@@ -23,7 +23,7 @@ Building AI-powered cybersecurity tools for African critical infrastructure.
 | **SA-CTEX** | South African Cyber Threat Exchange — National malware readiness platform with IOC sharing, sector ISACs, malware analysis, and capacity tracking | HTML, CSS, JS, Chart.js | [Demo →](https://techdokta.github.io/sa-ctex-dashboard/) |
 | **SHIELD OT** | Threat intelligence dashboard for Southern African energy infrastructure with SADC ISAC feed and resilience scoring | HTML, CSS, JS, Chart.js | [Demo →](https://techdokta.github.io/shield-ot-dashboard/) |
 | **SENTINEL v3** | AI control room security platform with real-time device detection, operator authentication, behavior analytics, and forensic audit trail | HTML, CSS, JS, TensorFlow.js, COCO-SSD | [Demo →](https://techdokta.github.io/sentinel-monitor/) |
-| **ASIBONGE MLOTSHWA PORTFOLIO WEBsite** | This is my own website that aims to display all in one about myself, rigth from my background, to the exciting projects that i build and work-on everyday plus personal ventures | Context, Credentials, Photos, Projects, Contatcs |[Demo →](https://github.com/techdokta/asibongemlotshwa-portfolio/) |
+| **ASIBONGE MLOTSHWA portfolio WEBsite** | This is my own website that aims to display all in one about myself, rigth from my background, to the exciting projects that i build and work-on everyday plus personal ventures | Context, Credentials, Photos, Projects, Contatcs |[Demo →](https://github.com/techdokta/asibongemlotshwa-portfolio/) |
 
 ---
 
