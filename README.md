@@ -25,6 +25,7 @@ Building AI-powered cybersecurity tools for African critical infrastructure.
 | **SENTINEL v3** | AI control room security platform with real-time device detection, operator authentication, behavior analytics, and forensic audit trail | HTML, CSS, JS, TensorFlow.js, COCO-SSD | [Demo →](https://techdokta.github.io/sentinel-monitor/) |
 | **ASIBONGE MLOTSHWA portfolio WEBsite** | This is my own website that aims to display all in one about myself, rigth from my background, to the exciting projects that i build and work-on everyday plus personal ventures | HTML, CSS, JS, JSON, MD, .gitignore, .example , .txt |[Demo →](https://asibongemlotshwa-portfolio.vercel.app/) |
 
+| **KM VIP SECURITY WEBsite** | Client proeject website for a private security group | HTML, CSS, JS, JSON, MD, .gitignore, .example , .txt |[Demo →](https://asibongemlotshwa-portfolio.vercel.app/) |
 ---
 
 ### Tech Stack
