@@ -46,7 +46,7 @@ Engineering: MATLAB/Simulink | Python | MQL5 | Ladder Logic
 - Participant in **SANCS26** — Southern Africa-Netherlands Cyber Security School
 - Pursuing **AZ-500** Azure Security Engineer Associate
 - Building open-source security tools for African infrastructure
-- Vice Chairperson, SAIMechE TUT Chapter
+- Vice Chairperson, SAIMechE Student Chapter
 - CSIR National Cyber Threat Challenge
 - MobiDokta lead Technical specialist
 - ASI Technologies IT Technician
