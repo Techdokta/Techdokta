@@ -1,12 +1,14 @@
 # Asibonge Sanele Mlotshwa
 
-**BEngTech Mechatronic Engineering** |
+**BE Mechatronic Engineering** |
 
-Building AI-powered cybersecurity tools for African critical infrastructure.
+" Philosophy ~ Innovation driven by a dire need and desire for highest effect solutions that can sustain and drive human-kind forward! "
 
 ---
 
 ### What I Build
+
+**Business integrated automation and Saas products and service provider** - CTO of ASi Technologies a modern-day IT and Software Firm working in the most discreet, zero-trust and optimized work processess to deliver work of the highest quality [ASi Technologies, Contacts: +27 75 347 3367, Email: infoasitech.co.za].
 
 **OT/ICS Cybersecurity** — Protecting operational technology systems (SCADA, PLCs, industrial control systems) in energy, water, and manufacturing environments across Southern Africa.
 
@@ -24,8 +26,7 @@ Building AI-powered cybersecurity tools for African critical infrastructure.
 | **SHIELD OT** | Threat intelligence dashboard for Southern African energy infrastructure with SADC ISAC feed and resilience scoring | HTML, CSS, JS, Chart.js | [Demo →](https://techdokta.github.io/shield-ot-dashboard/) |
 | **SENTINEL v3** | AI control room security platform with real-time device detection, operator authentication, behavior analytics, and forensic audit trail | HTML, CSS, JS, TensorFlow.js, COCO-SSD | [Demo →](https://techdokta.github.io/sentinel-monitor/) |
 | **ASIBONGE MLOTSHWA portfolio WEBsite** | This is my own website that aims to display all in one about myself, rigth from my background, to the exciting projects that i build and work-on everyday plus personal ventures | HTML, CSS, JS, JSON, MD, .gitignore, .example , .txt |[Demo →](https://asibongemlotshwa-portfolio.vercel.app/) |
-
-| **KM VIP SECURITY WEBsite** | Client proeject website for a private security group | HTML, CSS, JS, JSON, MD, .gitignore, .example , .txt |[Demo →](https://asibongemlotshwa-portfolio.vercel.app/) |
+| **KM VIP SECURITY WEBsite** | Client proeject website for a private security group | HTML, CSS, JS, JSON, MD, .gitignore, .example , .txt |[Demo →]((https://km-vip-security-we-bsite.vercel.app/)) |
 ---
 
 ### Tech Stack
@@ -43,14 +44,20 @@ Engineering: MATLAB/Simulink | Python | MQL5 | Ladder Logic
 
 ### Currently
 
+- Director and CTO of ASi Technologies
+- Mechatronics Engineering Graduate
+- 2X SIEMENS Certified
+- Stellenbosch University 2021 BEng Mechatronic Engineering
+- Tshwane University Of Technology 2022-2025 BEngTech Mechatronic Engineering
 - Completing Honours in Mechatronics Engineering
 - Participant in **SANCS26** — Southern Africa-Netherlands Cyber Security School
 - Pursuing **AZ-500** Azure Security Engineer Associate
-- Building open-source security tools for African infrastructure
-- Vice Chairperson, SAIMechE Student Chapter
-- CSIR National Cyber Threat Challenge
-- MobiDokta lead Technical specialist
-- ASI Technologies IT Technician
+- Pursuing **Google CyberSecurity Analyst proffesional certificate**
+- Building open-source web-based applications and security tools for African infrastructure
+- Former Vice Chairperson, SAIMechE Student Chapter, 2025
+- CSIR National Cyber Threat Challenge (SA-CTEX Lead Dev)
+- MobiDokta lead Technical specialist (TechDokta)
+- 
 
 ---
 
@@ -63,4 +70,4 @@ Engineering: MATLAB/Simulink | Python | MQL5 | Ladder Logic
 
 ---
 
-*"The people who will solve Africa's artificial-intelligence and cybersecurity challenges are those who understand both the technology and the context of this African continent."*
+*"The people who will solve Africa's Saas, Socioeconomics, artificial-intelligence and cybersecurity challenges are those who understand both the technology and the context of this African continent."*
