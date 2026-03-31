@@ -2,7 +2,7 @@
 
 **BE Mechatronic Engineering** |
 
-" Philosophy ~ Innovation driven by a dire need and desire for highest effect solutions that can sustain and drive human-kind forward! "
+" Philosophy ~ Innovation driven by a dire need and desire for the highest effect solutions that can sustain and drive human-kind forward! "
 
 ---
 
