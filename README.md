@@ -8,7 +8,7 @@
 
 ### What I Build
 
-**Business integrated automation and Saas products and service provider** - CTO of ASi Technologies a modern-day IT and Software Firm working in the most discreet, zero-trust and optimized work processess to deliver work of the highest quality [ASi Technologies, Contacts: +27 75 347 3367, Email: infoasitech.co.za].
+**Business integrated automation and Saas products and service provider** - CTO of ASi Technologies a modern-day IT and Software Firm working in the most discreet, zero-trust and optimized work processess to deliver work of the highest quality [ASi Technologies, Contacts: +27 75 347 3367, Email: info@asitechnologies.co.za] .
 
 **OT/ICS Cybersecurity** — Protecting operational technology systems (SCADA, PLCs, industrial control systems) in energy, water, and manufacturing environments across Southern Africa.
 
